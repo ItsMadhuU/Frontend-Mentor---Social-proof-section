@@ -166,6 +166,10 @@ body {
     display: flex;
     flex-direction: row;
   }
+  
+  .info {
+    height: max-content;
+  }
 
   .irene {
     margin-top: 2rem;
